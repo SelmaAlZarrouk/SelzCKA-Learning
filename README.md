@@ -33,6 +33,8 @@ Resources:
 - Killercoda
 - Killer Shell
 
+ Sailor for practise Q : https://sailor.sh/blog/cka-practice-questions-free/
+
 Rule #1:
 If I cannot explain it, I do not understand it.
 
